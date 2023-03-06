@@ -1,10 +1,10 @@
-# dorking-tools
+# dorking-tools-Ninja
 just simple tools to make your life easier
 
 
 
 installation in linux based debian
-1. git clone https://github.com/SystemOfPekalongan/dorking-tools.git
+1. git clone https://github.com/Cy0x1337/dorking.git
 2. sudo apt-get install python3
 3. python3 dork.py
 
